@@ -9,7 +9,7 @@ Occasionally distracted ... 🦋
 I'm currently working on 🔥 **Render Hell** 🔥  
 _https://github.com/IngSorre97/Render-Hell_  
 
-A graphical showcase, made with **Unity**, **HLSL** and *lots of pain*, currently comprise a Brush3D to spatially interact with meshes by means of **drawing regions**, **clip regions** (👀 _and spoiler_ 👀 **extrapolate drawn regions**)   
+A graphical showcase, made with **Unity**, **HLSL** and *lots of pain*, currently comprise a Brush3D to spatially interact with meshes by means of **drawing regions**, **clip regions** and **extrapolating drawn regions** 
 
 ### ⌚ In a world with unlimited ~power~ time...
 I would work at 🔍 **The Good Game Engine** 🔎, a custom game-engine made as an exercise-of-style with **C++**  
